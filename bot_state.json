@@ -1,0 +1,52 @@
+{
+    "status": "stopped",
+    "last_update": "2024-11-24 15:02:08",
+    "balance": 718.01898945,
+    "current_price": 97139.99,
+    "last_signal": "HOLD",
+    "technical_indicators": {
+        "rsi": 36.85633607912885,
+        "sma20": 97830.005,
+        "sma50": 98251.5408,
+        "bb_high": 98707.39761429565,
+        "bb_low": 96952.61238570436,
+        "bb_mid": 97830.005,
+        "price_change_24h": -1.2804979674796695,
+        "volume_24h": 27560.25436,
+        "volatility": 1.3675763479596235,
+        "trend": "down",
+        "trend_strength": 0.4290373428932504,
+        "market_momentum": -1029.2200000000012
+    },
+    "risk_metrics": {
+        "max_position_size": 71.801898945,
+        "max_daily_risk": 14.360379789000001,
+        "current_risk_level": 0.0,
+        "available_risk": 14.360379789000001
+    },
+    "market_conditions": {
+        "volatility_level": "Medium",
+        "volume_analysis": "Low",
+        "market_phase": "Downtrend",
+        "trend_reliability": "Low"
+    },
+    "open_positions": [
+        {
+            "asset": "BTC",
+            "amount": 9.06e-06,
+            "current_price": 97122.07,
+            "entry_price": 90348.93,
+            "value_usdt": 0.8799259542000001,
+            "pnl": 7.496646612195644,
+            "free": 9.06e-06,
+            "locked": 0.0
+        }
+    ],
+    "trading_stats": {
+        "total_trades": 0,
+        "successful_trades": 0,
+        "failed_trades": 0,
+        "win_rate": 0,
+        "total_profit": 0
+    }
+}
